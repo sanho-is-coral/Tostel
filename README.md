@@ -8,10 +8,11 @@ Unity version 1010.1.10
 The goal of the game is to move the character to the top using arrow buttons.
 A left or right drawer of the next level randomly opens when the character reaches a certain level.
 The door opens with a playing sound irregularly controlled by random factors.
-If the character moves to the wrong direction or when the door is opened, the game plays game over scene.
+If the character moves in the wrong direction or when the door is opened, the game plays game over scene.
 
 # Game Scene
 Start scene
+
 ![startscene-ezgif com-video-to-gif-converter](https://github.com/sanho-is-coral/Tostel/assets/77918183/b3e7f9e5-cae1-49d7-a92b-d0713233de2e)
 
 Success ending
