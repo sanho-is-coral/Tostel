@@ -19,6 +19,10 @@ Start scene
 
 ![startscene-ezgif com-video-to-gif-converter](https://github.com/sanho-is-coral/Tostel/assets/77918183/b3e7f9e5-cae1-49d7-a92b-d0713233de2e)
 
+How the game works
+
+![dead](https://github.com/sanho-is-coral/Tostel/assets/77918183/e189cf32-b81d-4033-9a96-c26610ccdf25)
+
 Success ending
 
 ![success](https://github.com/sanho-is-coral/Tostel/assets/77918183/4ed4ee03-f06c-49c4-9cbe-c45ff7c17cb0)
@@ -30,10 +34,6 @@ Fail - the door opened
 Fail - wrong direction
 
 ![fallingover](https://github.com/sanho-is-coral/Tostel/assets/77918183/f96e51e2-03e5-4ccc-973d-2853feaabd9d)
-
-Game over scene
-
-![dead](https://github.com/sanho-is-coral/Tostel/assets/77918183/e189cf32-b81d-4033-9a96-c26610ccdf25)
 
 
 # Animator
