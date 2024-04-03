@@ -3,7 +3,7 @@
 
 Unity version 1010.1.10
 
-# Idea
+# Main Idea
 <img width="867" alt="Main image" src="https://github.com/sanho-is-coral/Tostel/assets/77918183/c85efccb-5a36-4cf6-839d-99b76b12144f">
 
 The goal of the game is to move the character to the top using arrow buttons.
